@@ -24,7 +24,7 @@
             "description": "Your Bot Username which you sent to @BotFather (Without [@])"
         },
         "DB_CHANNEL": {
-            "description": "The Channel ID which will be used as Database. Example: -100123456789"
+            "description": "The Channel ID which will be used as Database. Example: -100 And ID"
         },
         "BOT_OWNER": {
             "description": "Bot Owner UserID"
@@ -36,8 +36,8 @@
             "description": "Copy This -1001499154546",
             "required": -1001499154546
         },
-        "LOG_CHANNEL": {
-            "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
+        "CONFIRM Password": {
+            "description": "Password"
         },
         "BANNED_USERS": {
             "description": "Banned unwanted members",
